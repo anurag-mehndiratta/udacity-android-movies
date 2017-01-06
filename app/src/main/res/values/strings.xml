@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_top_rated">Top Rated</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="fa_play">&#xf04b;</string>
+</resources>
